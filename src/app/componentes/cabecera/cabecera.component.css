@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #1F2123 !important;
+    position: fixed !important;
+    top:0;
+    width: 100%;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bolder;
+}
+.navbar-brand span{
+    color: #FCB823;
+    font-weight: lighter;
+}
+a{
+    color: white;
+}

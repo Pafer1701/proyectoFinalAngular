@@ -1,0 +1,8 @@
+.users{
+    display: grid;
+    place-items: center;
+    height: 95vh;
+}
+.table{
+    width: 80vw
+}

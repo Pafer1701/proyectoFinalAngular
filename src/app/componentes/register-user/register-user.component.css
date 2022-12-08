@@ -1,0 +1,17 @@
+.row{
+    display: grid;
+    place-items: center;
+    height: 96vh;
+}
+.m-auto{
+    width: 80vw;
+}
+.button-save{
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+}
+.button-save input{
+    background-color:#FCB823;
+    border:#FCB823;
+}
